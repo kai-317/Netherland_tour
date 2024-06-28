@@ -846,6 +846,7 @@ footer{
   background-color: #792438;
   height: 850px;
   width: 100%;
+  padding-top: 100px;
 }
 
 .link-botton1{
@@ -1166,6 +1167,7 @@ html,body{
   margin-bottom: 40px;
   position: relative;
   z-index: 998;
+  width: 100%;
 }
 
 h2{
@@ -1590,6 +1592,7 @@ footer{
   background-color: #792438;
   height: 300px;
   width: 100%;
+  padding-top: 50px;
 }
 
 .link-botton1{
@@ -1637,7 +1640,8 @@ footer{
 
 .center-title2{
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;
+  width: 100%;
   height: 100px;
 }
 
